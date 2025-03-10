@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Alcremie : Pokemon
+    public class caterpie : Pokemon
     {
-        public Alcremie() : base("Alcremie", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
+        public caterpie() : base("Alcremie", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
         {
         }
     }
