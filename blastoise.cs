@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Espeon : Pokemon
+    public class blastoise : Pokemon
     {
-        public Espeon() : base("Espeon", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
+        public blastoise() : base("Espeon", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
         {
         }
     }
