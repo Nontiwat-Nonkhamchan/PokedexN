@@ -57,23 +57,23 @@
             // 
             btnEspeon.ForeColor = Color.DeepPink;
             btnEspeon.Location = new Point(40, 103);
-            btnEspeon.Name = "btnEspeon";
+            btnEspeon.Name = "btnblastoise";
             btnEspeon.Size = new Size(94, 29);
             btnEspeon.TabIndex = 1;
             btnEspeon.Text = "blastoise";
             btnEspeon.UseVisualStyleBackColor = true;
             btnblastoise.Click += btnblastoise_Click;
             // 
-            // bthHatterene
+            // bthweedle
             // 
             bthHatterene.ForeColor = Color.HotPink;
             bthHatterene.Location = new Point(40, 165);
-            bthHatterene.Name = "bthHatterene";
+            bthHatterene.Name = "bthweedle";
             bthHatterene.Size = new Size(94, 29);
             bthHatterene.TabIndex = 2;
-            bthHatterene.Text = "Hatterene";
+            bthHatterene.Text = "weedle";
             bthHatterene.UseVisualStyleBackColor = true;
-            bthHatterene.Click += bthHatterene_Click;
+            bthweedle.Click += bthweedle_Click;
             // 
             // btnSwirlix
             // 
