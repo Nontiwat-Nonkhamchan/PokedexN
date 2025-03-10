@@ -86,16 +86,16 @@
             btnSwirlix.UseVisualStyleBackColor = true;
             btnrattata.Click += btnrattata_Click;
             // 
-            // bthJigglypuff
+            // bthpidgey
             // 
             bthJigglypuff.ForeColor = Color.Pink;
             bthJigglypuff.Location = new Point(40, 301);
-            bthJigglypuff.Name = "bthJigglypuff";
+            bthJigglypuff.Name = "bthpidgey";
             bthJigglypuff.Size = new Size(94, 29);
             bthJigglypuff.TabIndex = 4;
-            bthJigglypuff.Text = "Jigglypuff";
+            bthJigglypuff.Text = "pidgey";
             bthJigglypuff.UseVisualStyleBackColor = true;
-            bthJigglypuff.Click += bthJigglypuff_Click;
+            bthpidgey.Click += bthpidgey_Click;
             // 
             // bthAlcremie
             // 
