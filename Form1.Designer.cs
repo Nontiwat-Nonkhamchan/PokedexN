@@ -55,58 +55,58 @@
             // 
             // btnblastoise
             // 
-            btnEspeon.ForeColor = Color.DeepPink;
-            btnEspeon.Location = new Point(40, 103);
-            btnEspeon.Name = "btnblastoise";
-            btnEspeon.Size = new Size(94, 29);
-            btnEspeon.TabIndex = 1;
-            btnEspeon.Text = "blastoise";
-            btnEspeon.UseVisualStyleBackColor = true;
+            btnblastoise.ForeColor = Color.DeepPink;
+            btnblastoise.Location = new Point(40, 103);
+            btnblastoise.Name = "btnblastoise";
+            btnblastoise.Size = new Size(94, 29);
+            btnblastoise.TabIndex = 1;
+            btnblastoise.Text = "blastoise";
+            btnblastoise.UseVisualStyleBackColor = true;
             btnblastoise.Click += btnblastoise_Click;
             // 
             // bthweedle
             // 
-            bthHatterene.ForeColor = Color.HotPink;
-            bthHatterene.Location = new Point(40, 165);
-            bthHatterene.Name = "bthweedle";
-            bthHatterene.Size = new Size(94, 29);
-            bthHatterene.TabIndex = 2;
-            bthHatterene.Text = "weedle";
-            bthHatterene.UseVisualStyleBackColor = true;
+            bthweedle.ForeColor = Color.HotPink;
+            bthweedle.Location = new Point(40, 165);
+            bthweedle.Name = "bthweedle";
+            bthweedle.Size = new Size(94, 29);
+            bthweedle.TabIndex = 2;
+            bthweedle.Text = "weedle";
+            bthweedle.UseVisualStyleBackColor = true;
             bthweedle.Click += bthweedle_Click;
             // 
             // btnrattata
             // 
-            btnSwirlix.ForeColor = Color.PaleVioletRed;
-            btnSwirlix.Location = new Point(40, 233);
-            btnSwirlix.Name = "btnrattata";
-            btnSwirlix.Size = new Size(94, 29);
-            btnSwirlix.TabIndex = 3;
-            btnSwirlix.Text = "rattata";
-            btnSwirlix.UseVisualStyleBackColor = true;
+            btnrattata.ForeColor = Color.PaleVioletRed;
+            btnrattata.Location = new Point(40, 233);
+            btnrattata.Name = "btnrattata";
+            btnrattata.Size = new Size(94, 29);
+            btnrattata.TabIndex = 3;
+            btnrattata.Text = "rattata";
+            btnrattata.UseVisualStyleBackColor = true;
             btnrattata.Click += btnrattata_Click;
             // 
             // bthpidgey
             // 
-            bthJigglypuff.ForeColor = Color.Pink;
-            bthJigglypuff.Location = new Point(40, 301);
-            bthJigglypuff.Name = "bthpidgey";
-            bthJigglypuff.Size = new Size(94, 29);
-            bthJigglypuff.TabIndex = 4;
-            bthJigglypuff.Text = "pidgey";
-            bthJigglypuff.UseVisualStyleBackColor = true;
+            bthpidgey.ForeColor = Color.Pink;
+            bthpidgey.Location = new Point(40, 301);
+            bthpidgey.Name = "bthpidgey";
+            bthpidgey.Size = new Size(94, 29);
+            bthpidgey.TabIndex = 4;
+            bthpidgey.Text = "pidgey";
+            bthpidgey.UseVisualStyleBackColor = true;
             bthpidgey.Click += bthpidgey_Click;
             // 
-            // bthAlcremie
+            // bthcaterpie
             // 
-            bthAlcremie.ForeColor = Color.LightPink;
-            bthAlcremie.Location = new Point(40, 362);
-            bthAlcremie.Name = "bthAlcremie";
-            bthAlcremie.Size = new Size(94, 29);
-            bthAlcremie.TabIndex = 5;
-            bthAlcremie.Text = "Alcremie";
-            bthAlcremie.UseVisualStyleBackColor = true;
-            bthAlcremie.Click += bthAlcremie_Click;
+            bthcaterpie.ForeColor = Color.LightPink;
+            bthcaterpie.Location = new Point(40, 362);
+            bthcaterpie.Name = "bthcaterpie";
+            bthcaterpie.Size = new Size(94, 29);
+            bthcaterpie.TabIndex = 5;
+            bthcaterpie.Text = "caterpie";
+            bthcaterpie.UseVisualStyleBackColor = true;
+            bthcaterpie.Click += bthcaterpie_Click;
             // 
             // lbName
             // 
