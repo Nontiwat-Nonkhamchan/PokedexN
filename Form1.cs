@@ -64,9 +64,9 @@ namespace PokemondexN
             ShowPokemon("pidgey");
         }
 
-        private void bthAlcremie_Click(object sender, EventArgs e)
+        private void bthcaterpie_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Alcremie");
+            ShowPokemon("caterpie");
         }
     }
 
