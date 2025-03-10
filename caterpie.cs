@@ -9,7 +9,7 @@ namespace PokemondexN
 {
     public class caterpie : Pokemon
     {
-        public caterpie() : base("Alcremie", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
+        public caterpie() : base("caterpie", "Bug", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
         {
         }
     }
