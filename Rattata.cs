@@ -7,9 +7,9 @@ using PokemondexN.pokemondex3;
 
 namespace PokemondexN
 {
-    public class Swirlix : Pokemon
+    public class rattata : Pokemon
     {
-        public Swirlix() : base("Swirlix", "Fairy", 0.4, 3.5, 62, 48, 66, 59, 57, 49)
+        public rattata() : base("Swirlix", "Fairy", 0.4, 3.5, 62, 48, 66, 59, 57, 49)
         {
         }
     }
