@@ -53,16 +53,16 @@
             btnPikachu.UseVisualStyleBackColor = false;
             btnPikachu.Click += btnPikachu_Click;
             // 
-            // btnEspeon
+            // btnblastoise
             // 
             btnEspeon.ForeColor = Color.DeepPink;
             btnEspeon.Location = new Point(40, 103);
             btnEspeon.Name = "btnEspeon";
             btnEspeon.Size = new Size(94, 29);
             btnEspeon.TabIndex = 1;
-            btnEspeon.Text = "Espeon";
+            btnEspeon.Text = "blastoise";
             btnEspeon.UseVisualStyleBackColor = true;
-            btnEspeon.Click += btnEspeon_Click;
+            btnblastoise.Click += btnblastoise_Click;
             // 
             // bthHatterene
             // 
