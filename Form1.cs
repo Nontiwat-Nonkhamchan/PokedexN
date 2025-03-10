@@ -54,9 +54,9 @@ namespace PokemondexN
             ShowPokemon("weedle");
         }
 
-        private void btnSwirlix_Click(object sender, EventArgs e)
+        private void btnrattata_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Swirlix");
+            ShowPokemon("rattata");
         }
 
         private void bthJigglypuff_Click(object sender, EventArgs e)
