@@ -75,16 +75,16 @@
             bthHatterene.UseVisualStyleBackColor = true;
             bthweedle.Click += bthweedle_Click;
             // 
-            // btnSwirlix
+            // btnrattata
             // 
             btnSwirlix.ForeColor = Color.PaleVioletRed;
             btnSwirlix.Location = new Point(40, 233);
-            btnSwirlix.Name = "btnSwirlix";
+            btnSwirlix.Name = "btnrattata";
             btnSwirlix.Size = new Size(94, 29);
             btnSwirlix.TabIndex = 3;
-            btnSwirlix.Text = "Swirlix";
+            btnSwirlix.Text = "rattata";
             btnSwirlix.UseVisualStyleBackColor = true;
-            btnSwirlix.Click += btnSwirlix_Click;
+            btnrattata.Click += btnrattata_Click;
             // 
             // bthJigglypuff
             // 
