@@ -49,9 +49,9 @@ namespace PokemondexN
             ShowPokemon("blastoise");
         }
 
-        private void bthHatterene_Click(object sender, EventArgs e)
+        private void bthweedle_Click(object sender, EventArgs e)
         {
-            ShowPokemon("Hatterene");
+            ShowPokemon("weedle");
         }
 
         private void btnSwirlix_Click(object sender, EventArgs e)
