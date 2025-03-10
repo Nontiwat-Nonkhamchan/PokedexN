@@ -9,7 +9,7 @@ namespace PokemondexN
 {
     public class rattata : Pokemon
     {
-        public rattata() : base("Swirlix", "Fairy", 0.4, 3.5, 62, 48, 66, 59, 57, 49)
+        public rattata() : base("rattata", "Normal", 0.4, 3.5, 62, 48, 66, 59, 57, 49)
         {
         }
     }
