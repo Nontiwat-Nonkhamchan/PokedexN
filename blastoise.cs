@@ -9,7 +9,7 @@ namespace PokemondexN
 {
     public class blastoise : Pokemon
     {
-        public blastoise() : base("Espeon", "Fairy", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
+        public blastoise() : base("blastoise", "Water", 0.3, 0.5, 65, 60, 75, 110, 121, 64)
         {
         }
     }
