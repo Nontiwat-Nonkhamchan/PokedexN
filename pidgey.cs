@@ -9,7 +9,7 @@ namespace PokemondexN
 {
     public class pidgey : Pokemon
     {
-        public pidgey() : base("Jigglypuff", "NorMal/Fairy", 0.5, 5.5, 115, 45, 20, 45, 25, 20)
+        public pidgey() : base("pidgey", "Normal/Flying", 0.5, 5.5, 115, 45, 20, 45, 25, 20)
         {
         }
     }
